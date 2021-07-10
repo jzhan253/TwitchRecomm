@@ -8,4 +8,5 @@ recommendations.
 > - Support login/logout and favorite collection.
 > - Improved personalized position recommendation based on search history and favorite records
 
+![image](https://user-images.githubusercontent.com/62904466/125178909-f87d2c00-e19d-11eb-847d-081eb4163eb2.png)
 
